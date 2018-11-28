@@ -1,0 +1,196 @@
+*{
+margin: 0;
+padding: 0;
+
+}
+body
+{
+    height: 720px;
+}
+.header{
+    margin-left: auto;
+    margin-right: auto;
+    height: 100px;
+    
+}
+.clogo{
+    margin-left: auto;
+    margin-right: auto;
+    width: 961px;
+    height: 100px;
+    padding-top: 23px;
+}
+.logo{
+    width: 48px;
+    height: 48px;
+    background: #F56600;
+    border-radius: 3px;
+    float: left;
+    
+    
+    background-image: url("img/mi-logo.png");
+}
+.sp1{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 28px;
+    padding-left: 18px;
+}
+.p1{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 1px;
+    margin-left: 12px;
+    width:150px;
+    position: relative;
+    left: 21px;
+    opacity: 0.5;
+    
+}
+.container{
+    width: 1532px;
+    height: 500px;
+    background-image: url("img/banner.png");
+}
+.loginbg{
+    width: 322px;
+    height: 421px;
+    background-color: #fff;
+    position: relative;
+    left: 1110px;
+    top: 39px;
+}
+.p2{
+    padding-top: 15px;
+    position: relative;
+    left: 15px;
+    float: left;
+}
+a{
+    color: black;
+    text-decoration: none;
+    display: flex;    
+    float: left;
+}
+.a1{
+    color:  #F56600;
+    padding-top: 15px;
+    padding-left: 61px;
+}
+.a2{
+    padding-top: 15px;
+    padding-left: 31px;
+}
+.input1{
+    width:210px;
+    height:25px;
+    padding:5px 25px;
+    display: flex;
+    border: 1px solid  ;
+    
+    background:#FFFFFF;
+    align-items: center;
+    position: relative;
+    left:29px;
+    top: 20px;
+    opacity: 0.3;
+}
+.input2{
+    width:210px;
+    height:25px;
+    padding:5px 25px;
+    display: flex;
+    border: 1px solid  ;
+    
+    background:#FFFFFF;
+    align-items: center;
+    position: relative;
+    left:29px;
+    top: 35px;
+    opacity: 0.3;
+}
+input{
+    flex: 1;
+    border:1px;
+    background: #FFFFFF;
+    outline: none;
+    padding-left: 12px; 
+    position: relative;
+    left: -17px;
+}
+
+.btn2{
+    
+    width:263px;
+    height:50px;
+    background-color: #F56600;
+    outline:none;
+    display: block;
+    position: relative;
+    top: 60px;
+    left: 28px;
+    color: #fff;
+    font-size: 20px;
+    border: #F56600;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.reg{
+    position: relative;
+    left: 80px;
+    top:74px;
+    font-size: 13px;
+    opacity: 0.4;
+}
+.reg1{
+
+    position: relative;
+    left: 8px;
+    float: left;
+
+}
+.reg2{
+   
+    position: relative;
+    left: 19px;
+}
+.p3{
+    position: relative;
+    top:190px;
+    left: -65px;
+    font-size: 13px;
+    opacity: 0.4;
+}
+.p4{
+    position: relative;
+    top: 192px;
+    left: 30px;
+    width: 263px;
+    height: 42px;
+    background:#999999;
+    border-radius: 15px;
+}
+.icon{
+    width: 205px;
+    height: 46px;
+    position: relative;
+    top: 200px;
+    left: 19px;
+    text-indent:100px;
+
+}
+.footer{
+    
+    position: relative;
+    top: 251px;
+    margin-left: -1056px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    opacity: 0.4;
+    font-size: 13px;
+}
+
+.footer-p2{
+    position: relative;
+    top: 18px;  
+}
